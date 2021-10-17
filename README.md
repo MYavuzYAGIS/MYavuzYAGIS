@@ -20,14 +20,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: 
 
-![lkd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+![lkd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ***https://www.linkedin.com/in/myavuzyagis/*** 
 
-***https://www.linkedin.com/in/myavuzyagis/***
-
-![md](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![md](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ***https://mehmetyavuzyagis.medium.com/*** 
 
 
-***https://mehmetyavuzyagis.medium.com/***
 
 
 
