@@ -9,7 +9,7 @@
 
 ## Tech Stack :man_technologist:
 
-Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, Mobile and Desktop Dev, DevSecOps, Security automation, web3, Smart contracts, machine learning tasks.
+Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, Mobile and Desktop Dev, DevSecOps, and Security automation tasks.
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-79D4FD?style=flat&logo=go&logoColor=white"/>
